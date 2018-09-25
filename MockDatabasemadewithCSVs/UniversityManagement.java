@@ -1,4 +1,4 @@
-package cs480hw1;
+
 
 import java.io.BufferedReader;
 import java.io.File;
